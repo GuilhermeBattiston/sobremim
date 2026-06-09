@@ -99,7 +99,7 @@ section.objetivo {
     gap: 30px;
 }
 
-.botoes a {
+.botoes button {
     text-decoration: none;
     padding: 10px 18px;
     background-color: #38bdf8;
@@ -109,6 +109,6 @@ section.objetivo {
     transition: 0.3s;
 }
 
-.botoes a:hover {
+.botoes button:hover {
     background-color: #0ea5e9;
 }
